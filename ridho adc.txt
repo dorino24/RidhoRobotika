@@ -1,0 +1,13 @@
+adc dengan input 0-5v
+dengan adc 12bit 
+tegangan = 2,73 V
+12 bit maka terdapat 2 pangkat 12 = 4096 data
+0 untuk 0 V
+4095 untuk 5 V
+
+jika 2,73 V maka
+x/4095*5=2,73 
+x=2,73*4095/5
+x=2236
+
+jadi nilai yang terbaca adalah 2236  
